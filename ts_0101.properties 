@@ -1,0 +1,7 @@
+browser=chrome 61.0.3163.91
+test_scenario_id=TS-01.01
+test_scenario_name="Facebook Friends Validation"
+ff_title="Facebook — войдите или зарегистрируйтесь"
+ff_username=avalonkl@gmail.com
+ff_password=
+friends=430
